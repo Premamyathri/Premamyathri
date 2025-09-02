@@ -7,7 +7,7 @@ I’m a Java Full Stack Developer who enjoys creating efficient, user-friendly, 
 🔭 Currently Exploring: Advanced Spring Boot, Microservices, React.js, Cloud Deployment<br>
 💡 Areas of Interest: Full Stack Development, System Design, Cloud-Native Apps<br>
 💬 Let’s Talk About: Java, Spring Boot, SQL, Web Development, React.js<br>
-📩 Reach Me At: <link>premamyathri@gmail.com</link><br>
+📩 Reach Me At: [premamyathri@gmail.com](mailto:premamyathri@gmail.com)<br>
 <br><br>
 🌐 Connect with me:<br>
 - LinkedIn: https://www.linkedin.com/in/premab123<br>
