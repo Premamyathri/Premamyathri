@@ -9,6 +9,6 @@ I’m a Java Full Stack Developer who enjoys creating efficient, user-friendly, 
 💬 Let’s Talk About: Java, Spring Boot, SQL, Web Development, React.js<br>
 📩 Reach Me At: premamyathri@gmail.com<br>
 <br><br>
-🌐 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/premab123
-- GitHub: https://github.com/Premamyathri
+🌐 Connect with me:<br>
+- LinkedIn: https://www.linkedin.com/in/premab123<br>
+- GitHub: https://github.com/Premamyathri<br>
